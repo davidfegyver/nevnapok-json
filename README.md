@@ -8,7 +8,7 @@ A linken találtható felsorolás utolsó módosítása: 1997. július
 Szúrópróbaszerűen ellenőriztem néhány névnap helyességét, azok alapján jónak tűnt.
 
 Formátum:
-```json
+```js
 "1": { // hónap
   "1": { // nap
     "main": [ //fő névnapok
