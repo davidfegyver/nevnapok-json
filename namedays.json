@@ -1,0 +1,1486 @@
+{
+    "1": {
+        "1": {
+            "other": ["Álmos", "Csombor", "Eufrozina", "Konkordia", "Mária", "Marietta", "Odiló", "Tóbiás", "Vászoly", "Vazul", "Vulkán"],
+            "main": ["Fruzsina"]
+        },
+        "2": {
+            "main": ["Ábel"],
+            "other": ["Abelárd", "Abélia", "Acsád", "Ákos", "Aszpázia", "Bazil", "Béla", "Bertold", "Bodó", "Ditmár", "Gergely", "Gergő", "Gerő", "Makár", "Odiló", "Odisszeusz", "Stefánia", "Ulisszesz", "Vászoly", "Vazul"]
+        },
+        "3": {
+            "main": ["Benjámin", "Genovéva"],
+            "other": ["Dániel", "Gyöngyvér", "Kardos"]
+        },
+        "4": {
+            "other": ["Aggeus", "Amélia", "Angéla", "Benáta", "Benedikta", "Izabella"],
+            "main": ["Leona", "Titusz"]
+        },
+        "5": {
+            "other": ["Amáta", "Árpád", "Deli", "Ede", "Ellák", "Emília", "Emiliána", "Gáspár", "Simeon", "Szimonetta", "Talamér"],
+            "main": ["Simon"]
+        },
+        "6": {
+            "other": ["Anasztáz", "Baltazár", "Gáspár", "Menyhért", "Rafaella"],
+            "main": ["Boldizsár"]
+        },
+        "7": {
+            "other": ["Artúr", "Bálint", "Ellina", "Etele", "Lucián", "Melánia", "Niké", "Nikétás", "Rajmund", "Rajmunda", "Valentin"],
+            "main": ["Attila", "Ramóna"]
+        },
+        "8": {
+            "other": ["Anasztáz", "Apollinár", "Apollinária", "Erhard", "Fóris", "Ince", "Jukundusz", "Jutas", "Keve", "Szevér", "Szeverin", "Szörény", "Tácia", "Tas", "Virág", "Zerind"],
+            "main": ["Gyöngyvér"]
+        },
+        "9": {
+            "other": ["Alexia", "Hont", "Jukundusz", "Juliánusz", "Jutas", "Marcella", "Zulejka"],
+            "main": ["Marcell"]
+        },
+        "10": {
+            "other": ["Agád", "Agaton", "Aldó", "Bács", "Orchidea", "Pál", "Vilma", "Vilmos"],
+            "main": ["Melánia"]
+        },
+        "11": {
+            "other": ["Agáta", "Baltazár", "Boldizsár", "Honoráta", "Kardos", "Matild", "Szalvia", "Szalviusz", "Tasziló", "Tézeusz", "Vászoly", "Vazul"],
+            "main": ["Ágota"]
+        },
+        "12": {
+            "other": ["Algernon", "Arkád", "Árkos", "Benke", "Bódog", "Bors", "Cézár", "Cezarina", "Elek", "Erna", "Erneszta", "Ernesztina", "Gujdó", "Kaplony", "Karion", "Kesző", "Rajnald", "Tatjána", "Veronika"],
+            "main": ["Ernő"]
+        },
+        "13": {
+            "other": ["Benignusz", "Csongor", "Gotfrid", "Hiláriusz", "Hilmár", "Ivett", "Ivetta", "Jordán", "Judit", "Kasztor", "Kesző", "Radiszló", "Radomér", "Radován", "Vera", "Vidor"],
+            "main": ["Veronika"]
+        },
+        "14": {
+            "other": ["Ámon", "Ámos", "Bálint", "Edömér", "Félix", "Hiláriusz", "Ilárion", "Larion", "Malakiás", "Oresztész", "Orion", "Uriás", "Uriel", "Uros", "Vidor"],
+            "main": ["Bódog"]
+        },
+        "15": {
+            "other": ["Alfréd", "Aurél", "Gujdó", "Imbert", "Itala", "Klarissza", "Kolos", "Makár", "Mike", "Mikeás", "Mór", "Móric", "Pál", "Roland", "Sándor", "Szidor", "Szigfrid", "Uzor", "Vitus"],
+            "main": ["Loránd", "Lóránt"]
+        },
+        "16": {
+            "other": ["Ahmed", "Benkő", "Dániel", "Géza", "Godó", "Gotfrid", "Henrik", "Hiláriusz", "Honorátusz", "Honóriusz", "Illés", "Izidor", "Janina", "Karád", "Marcell", "Marcella", "Otelló", "Priszcilla", "Sámuel", "Stefánia", "Szidor", "Uzor"],
+            "main": ["Gusztáv"]
+        },
+        "17": {
+            "main": ["Antal", "Antónia"],
+            "other": ["Aszter", "Oros", "Örs", "Roxána", "Rozalinda"]
+        },
+        "18": {
+            "other": ["Aténé", "Beatrix", "Dejte", "Fausztina", "Gajána", "Gyöngyi", "Lizandra", "Margaréta", "Margit", "Orion", "Özséb", "Pál"],
+            "main": ["Piroska"]
+        },
+        "19": {
+            "other": ["Gréta", "Kanut", "Kenéz", "Margaréta", "Margit", "Máriusz", "Márta", "Megyer", "Sarolta", "Szultána", "Vázsony", "Veronika"],
+            "main": ["Márió", "Sára"]
+        },
+        "20": {
+            "other": ["Eutim", "Eutímia", "Fabiána", "Özséb", "Sebő", "Tímea"],
+            "main": ["Fábián", "Sebestyén"]
+        },
+        "21": {
+            "main": ["Ágnes"],
+            "other": ["Agnéta", "Menyhért"]
+        },
+        "22": {
+            "other": ["Anasztáz", "Artemisz", "Artemíszia", "Cintia", "Délia", "Domonkos", "Dorián", "Dormán", "Ildefonz", "Neszta", "Rajmund", "Surány", "Szirén", "Szíriusz", "Teodolinda"],
+            "main": ["Artúr", "Vince"]
+        },
+        "23": {
+            "other": ["Alfonz", "Amázia", "Bertram", "Emerencia", "Emese", "Iziás", "János", "Mária"],
+            "main": ["Rajmund", "Zelma"]
+        },
+        "24": {
+            "other": ["Arnó", "Artúr", "Balár", "Bános", "Bertram", "Erik", "Erika", "Ferenc", "Makár", "Metella", "Surány", "Szaléz", "Szalók", "Taddeus", "Tádé", "Vera", "Veronika", "Xénia"],
+            "main": ["Timót"]
+        },
+        "25": {
+            "other": ["Apostol", "Bottyán", "Henriett", "Henrik", "Péter", "Pető", "Poppea", "Saul"],
+            "main": ["Pál"]
+        },
+        "26": {
+            "other": ["Balambér", "Bátony", "Gobert", "Oberon", "Polikárp", "Tamara", "Timót", "Timótea", "Titán", "Titánia", "Titusz", "Viktória"],
+            "main": ["Paula", "Vanda"]
+        },
+        "27": {
+            "other": ["Angéla", "Botár", "János", "Krizosztom", "Lotár", "Tivadar", "Ulászló", "Vincencia"],
+            "main": ["Angelika"]
+        },
+        "28": {
+            "other": ["Ágnes", "Agnéta", "Amadé", "Amadea", "Amália", "Apollónia", "Efraim", "Etelka", "Godiva", "Gréta", "Karolina", "Manassé", "Manfréd", "Manfréda", "Margit", "Péter", "Petra", "Tamás", "Tomaj"],
+            "main": ["Karola", "Károly"]
+        },
+        "29": {
+            "main": ["Adél"],
+            "other": ["Adelaida", "Eta", "Etelka", "Ferenc", "Jácinta", "Jónás", "Juliánusz", "Szaléz", "Szalók", "Valér"]
+        },
+        "30": {
+            "other": ["Adelgunda", "Aminta", "Bars", "Gellért", "Jácinta", "Orgona"],
+            "main": ["Gerda", "Martina"]
+        },
+        "31": {
+            "other": ["Círus", "Csörsz", "Eudoxia", "Geminián", "János", "Ludovika", "Lujza", "Marcell", "Péter", "Virgília", "Vulfia"],
+            "main": ["Marcella"]
+        }
+    },
+    "2": {
+        "1": {
+            "other": ["Cinnia", "Efraim", "Fiametta", "Gitta", "Imogén", "Innocencia", "Kincső", "Szevér", "Vincencia", "Virgínia"],
+            "main": ["Ignác"]
+        },
+        "2": {
+            "main": ["Aida", "Karolina"],
+            "other": ["Apor", "Bodó", "Brúnó", "Brútusz", "Gobert", "Johanna", "Kata", "Mária", "Opika", "Teofánia", "Virgínia"]
+        },
+        "3": {
+            "other": ["Arion", "Belinda", "Celerina", "Cserne", "Csinszka", "Kamilla", "Karolina", "Oszkár", "Oszlár", "Sebes"],
+            "main": ["Balázs"]
+        },
+        "4": {
+            "other": ["Andor", "Andos", "András", "Andrea", "Endre", "Gabriella", "Gilbert", "Hektor", "Holló", "Janka", "Johanna", "Ormos", "Rabán", "Róbert", "Veronika"],
+            "main": ["Csenge", "Ráhel"]
+        },
+        "5": {
+            "other": ["Abiáta", "Adél", "Adelaida", "Agáta", "Albin", "Alida", "Etel", "Etelka", "Izrael", "Jákob", "Kada", "Kájusz", "Kolos", "Léda", "Lehel", "Modeszta", "Modesztusz", "Péter"],
+            "main": ["Ágota", "Ingrid"]
+        },
+        "6": {
+            "other": ["Agmánd", "Ajándék", "Áldor", "Amand", "Amanda", "Arika", "Dolli", "Dorina", "Dorka", "Gara", "Gaszton", "Gergely", "Kalliszta", "Korvin", "Pál", "Réka", "Szilvána", "Szilvánusz", "Tétisz", "Ticiána", "Titán", "Titánia", "Titanilla", "Titusz", "Tódor"],
+            "main": ["Dóra", "Dorottya"]
+        },
+        "7": {
+            "other": ["Richárd", "Romuald", "Trisztán"],
+            "main": ["Rómeó", "Tódor"]
+        },
+        "8": {
+            "main": ["Aranka"],
+            "other": ["Bagamér", "Elfrida", "Hieronima", "Jakobina", "János", "Jeromos", "Jutas", "Salamon", "Szelemér"]
+        },
+        "9": {
+            "main": ["Abigél", "Alex"],
+            "other": ["Aladin", "Anett", "Apollónia", "Ciceró", "Cirill", "Donald", "Erik", "Erika", "Hanga", "Kirill", "Marcián", "Marián", "Polla", "Rajnald", "Szabin"]
+        },
+        "10": {
+            "other": ["Árpád", "Ella", "Harlám", "Klára", "Pál", "Paszkál", "Skolasztika", "Szorina", "Vilmos", "Virág"],
+            "main": ["Elvira"]
+        },
+        "11": {
+            "other": ["Adolf", "Dezső", "Elek", "Eufrozina", "Mária", "Teodolinda", "Teodóra", "Titánia"],
+            "main": ["Bertold", "Marietta"]
+        },
+        "12": {
+            "other": ["Bán", "Eulália", "Evelin", "Lilla", "Modesztusz", "Reginald"],
+            "main": ["Lídia", "Lívia"]
+        },
+        "13": {
+            "other": ["Benignusz", "Füzike", "Gergely", "Gobert", "Jordán", "Kasztor", "Katalin", "Keresztély", "Kitti", "Krisztián", "Leila", "Levente", "Maura", "Relinda"],
+            "main": ["Ella", "Linda"]
+        },
+        "14": {
+            "main": ["Bálint", "Valentin"],
+            "other": ["Brúnó", "Cirill", "Jozefa", "Konrád", "Kürt", "Metód", "Valentina"]
+        },
+        "15": {
+            "other": ["Alfréd", "Fausztina", "Fausztusz", "Gina", "György", "Györgyi", "Jordán", "Kenese", "Szeveréd", "Szigfrid", "Szironka", "Zsinett"],
+            "main": ["Georgina", "Kolos"]
+        },
+        "16": {
+            "other": ["Dániel", "Daniló", "Eliána", "Éliás", "Filippa", "Fülöp", "Illés", "Józsiás", "Júlia", "Júnó", "Porfir", "Samu", "Sámuel", "Zámor"],
+            "main": ["Julianna", "Lilla"]
+        },
+        "17": {
+            "other": ["Alex", "Egyed", "Elek", "Emőd", "Lukács", "Szilvánusz"],
+            "main": ["Donát"]
+        },
+        "18": {
+            "main": ["Bernadett"],
+            "other": ["Bernarda", "Bolivár", "Flavián", "Konkordia", "Konrád", "Konstancia", "Leó", "Leon", "Simeon", "Simon", "Szilvánusz", "Szimonetta"]
+        },
+        "19": {
+            "other": ["Anna", "Borbála", "Borbás", "Buda", "Eliza", "Kabos", "Konrád", "Kunó", "Kürt", "Manszvét", "Oszvald", "Ozsvát", "Szendike", "Zsuzsa"],
+            "main": ["Zsuzsanna"]
+        },
+        "20": {
+            "main": ["Aladár", "Álmos"],
+            "other": ["Amáta", "Elemér", "Leó", "Leon", "Leona", "Paula", "Paulina", "Polett", "Szilvánusz"]
+        },
+        "21": {
+            "other": ["Bódog", "Etelka", "Germán", "Györe", "György", "Leona", "Leonóra", "Nóra", "Patony", "Péter", "Petra", "Zakária", "Zakariás", "Zelmira"],
+            "main": ["Eleonóra"]
+        },
+        "22": {
+            "main": ["Gerzson"],
+            "other": ["Gréta", "Keve", "Leander", "Margaréta", "Margit", "Margó", "Nétus", "Pál", "Péter", "Petra", "Tas", "Zétény"]
+        },
+        "23": {
+            "main": ["Alfréd"],
+            "other": ["Alfréda", "Antigon", "Balambér", "Belizár", "Edina", "Fáta", "Hasszán", "Kardos", "Lázár", "Mirtill", "Ottó", "Péter", "Polikárp", "Romána", "Szemere", "Szerénusz", "Szirén"]
+        },
+        "24": {
+            "other": ["Darinka", "Edömér", "Etel", "Hedda", "Hedvig", "János", "Jázmin"],
+            "main": ["Mátyás"]
+        },
+        "25": {
+            "other": ["Aglája", "Cézár", "Félix", "Gejza", "Tacitusz", "Taráz", "Tarcal", "Vanda"],
+            "main": ["Géza"]
+        },
+        "26": {
+            "other": ["Balambér", "Dénes", "Edna", "Géza", "Győző", "Izabella", "Nesztor", "Ottokár", "Porfir", "Rodelinda", "Sándor", "Szabella", "Viktor"],
+            "main": ["Edina"]
+        },
+        "27": {
+            "other": ["Akács", "Antigon", "Antigoné", "Balambér", "Balda", "Baldó", "Éneás", "Gábor", "Gábriel", "Ladiszla", "Lantos", "László", "Leander", "Orfeusz", "Valdemár", "Veronika"],
+            "main": ["Ákos", "Bátor"]
+        },
+        "28": {
+            "other": ["Antónia", "Antonietta", "Hédi", "Hedvig", "Ilmár", "Neszta", "Osszián", "Oszvald", "Oszvalda", "Román"],
+            "main": ["Elemér"]
+        }
+    },
+    "3": {
+        "1": {
+            "main": ["Albin"],
+            "other": ["Albina", "Cseperke", "Dávid", "Eudoxia", "Félix", "Gyopárka", "Leontina", "Szecső", "Tóbia", "Veszta", "Zotmund", "Zulejka"]
+        },
+        "2": {
+            "other": ["Absolon", "Ágnes", "Harri", "Henriett", "Henrik", "Kada", "Lél", "Szendike"],
+            "main": ["Lujza"]
+        },
+        "3": {
+            "other": ["Alexandra", "Apolka", "Aszter", "Friderika", "Frigyes", "Gunda", "Inez", "Irma", "Kámea", "Kamilla", "Kleon", "Kornél", "Kunigunda", "Mária", "Mirkó", "Múzsa", "Oszkár", "Ticiána"],
+            "main": ["Kornélia"]
+        },
+        "4": {
+            "other": ["Adorján", "Adrián", "Adriána", "Adrienn", "Arián", "Bajnok", "Brútusz", "Jagelló", "Kazimir", "Luciusz", "Zorán"],
+            "main": ["Kázmér"]
+        },
+        "5": {
+            "main": ["Adorján", "Adrián"],
+            "other": ["Adriána", "Adrienn", "Frigyes", "Geraszim", "Olivér", "Olívia", "Özséb", "Teofil", "Virgil", "Virgília"]
+        },
+        "6": {
+            "other": ["Ágnes", "Agnéta", "Elvira", "Felícia", "Fridolin", "Gotlib", "Ilona", "Koletta", "Koriolán", "Nóra", "Perpétua"],
+            "main": ["Inez", "Leonóra"]
+        },
+        "7": {
+            "other": ["Pál", "Perpétua", "Tomaj", "Ubul"],
+            "main": ["Tamás"]
+        },
+        "8": {
+            "other": ["Abiáta", "Apolló", "Apollónia", "Arián", "Beáta", "Filemon", "Horácia", "János", "Juliánusz", "Kada", "Milos", "Szilvánusz", "Zoltána", "Zsolt"],
+            "main": ["Zoltán"]
+        },
+        "9": {
+            "other": ["Ajád", "Cirill", "Domán", "Domonkos", "Elmira", "Elvira", "Gergely", "György", "Katalin", "Katinka", "Metód", "Rebeka"],
+            "main": ["Fanni", "Franciska"]
+        },
+        "10": {
+            "other": ["Anasztáz", "Anasztázia", "Atala", "Atalanta", "Atlasz", "Atos", "Ede", "Édua", "Emánuel", "Emil", "Emilián", "Etele", "Gusztáv", "Ipoly", "Itala", "Kada", "Kadosa", "Kájusz", "Kamilla", "Kán", "Kandid", "Kandida", "Kolos", "Melitta", "Neszta", "Nyeste", "Priszcilla", "Teofil"],
+            "main": ["Ildikó"]
+        },
+        "11": {
+            "other": ["Aladár", "Bendegúz", "Benkő", "Bors", "Borsa", "Borsika", "Ciceró", "Eutim", "Eutímia", "Kadosa", "Konstantin", "Konstantina", "Riza", "Rozina", "Szofron", "Szofrónia", "Teréz", "Terézia", "Tímea", "Ulrik"],
+            "main": ["Szilárd"]
+        },
+        "12": {
+            "other": ["Domán", "Egmont", "Engelhard", "Gergő", "Gerő", "György", "Maximilián", "Miksa", "Szibilla", "Teofánia"],
+            "main": ["Gergely"]
+        },
+        "13": {
+            "main": ["Ajtony", "Krisztián"],
+            "other": ["Arabella", "Egyed", "Humbert", "Ida", "Imelda", "Imola", "Keresztély", "Leander", "Liander", "Lizandra", "Patrícia", "Rodrigó", "Rozina", "Salamon", "Solt", "Szabin", "Zina", "Zoltán", "Zoltána", "Zsolt"]
+        },
+        "14": {
+            "other": ["Jarmila", "Metta", "Paulina", "Pólika", "Tilda", "Tilla"],
+            "main": ["Matild"]
+        },
+        "15": {
+            "other": ["Elektra", "Keled", "Kelemen", "Klemencia", "Ludovika", "Lujza", "Lukrécia", "Sudárka", "Zakária", "Zakariás"],
+            "main": ["Kristóf"]
+        },
+        "16": {
+            "other": ["Ábrahám", "Ábris", "Bálint", "Cirjék", "Eszmeralda", "Euzébia", "Geréb", "Henriett", "Henrik", "Herbert", "Herta", "Hiláriusz", "Jetta", "Marina", "Nóna", "Nónusz", "Őzike", "Radiszló", "Radomér", "Radován", "Tacitusz", "Vidor", "Zádor"],
+            "main": ["Henrietta"]
+        },
+        "17": {
+            "other": ["Ármin", "Jozefina", "József", "Nóna", "Páris", "Patrícia", "Patrícius", "Petur"],
+            "main": ["Gertrúd", "Patrik"]
+        },
+        "18": {
+            "other": ["Alexa", "Alexandra", "Cirill", "Edvárd", "Edvarda", "Hanga", "Kirill", "Narcisszusz", "Nárciusz", "Szalvátor", "Szandra", "Szibilla"],
+            "main": ["Ede", "Sándor"]
+        },
+        "19": {
+            "main": ["Bánk", "József"],
+            "other": ["Fabrícius", "Jozefa", "Józsa"]
+        },
+        "20": {
+            "other": ["Áhim", "Alexandra", "Ambos", "Archibáld", "Azár", "Bence", "Csák", "Gujdó", "Hubert", "Huberta", "Ibolya", "Ipoly", "Irma", "Joakim", "Kötöny", "Mór", "Móric", "Sugárka", "Volfram"],
+            "main": ["Klaudia"]
+        },
+        "21": {
+            "other": ["Balár", "Bánk", "Bekény", "Bekő", "Bence", "Gergely", "Hóvirág", "Jázon", "Miklós", "Napsugár", "Nikola", "Nikolett", "Szerafina", "Tavaszka"],
+            "main": ["Benedek"]
+        },
+        "22": {
+            "other": ["Bazsó", "Csilla", "Csillag", "Katalin", "Kitti", "Lea", "Lia", "Lídia", "Oktávián", "Relinda", "Ruszlána", "Vazul"],
+            "main": ["Beáta", "Izolda"]
+        },
+        "23": {
+            "other": ["Appia", "Arvid", "Balabán", "Emese", "Fidél", "Kartal", "Ottó"],
+            "main": ["Emőke"]
+        },
+        "24": {
+            "other": ["Adelmár", "Almiréna", "Alpár", "Ella", "Gábriel", "Gabriella", "Jella", "Kapolcs", "Kata", "Katalin", "Kolumbán", "Olivér", "Simeon"],
+            "main": ["Gábor", "Karina"]
+        },
+        "25": {
+            "other": ["Ancilla", "Annunciáta", "Cézár", "Ders", "Ernák", "Ernye", "Humbert", "Irina", "Izméne", "Izsák", "Jenő", "Klára", "Kristóf", "Lúcia", "Mária", "Marietta", "Marinella", "Mátka"],
+            "main": ["Irén", "Írisz"]
+        },
+        "26": {
+            "other": ["Árpád", "Dénes", "Dusán", "Emanuéla", "Immánuel", "Lehel", "Manó", "Mánuel", "Manuéla", "Maximilla", "Mendel", "Ormos"],
+            "main": ["Emánuel"]
+        },
+        "27": {
+            "other": ["Ágosta", "Alpár", "Archibáld", "Auguszta", "János", "Lídia", "Marót", "Nikodémia", "Nikodémusz", "Rupert", "Ruperta"],
+            "main": ["Hajnalka"]
+        },
+        "28": {
+            "main": ["Gedeon", "Johanna"],
+            "other": ["Gida", "Ixion", "Janina", "Janka", "János", "Kapisztrán", "Katapán", "Koppány", "Maja", "Szixtusz", "Zsanett"]
+        },
+        "29": {
+            "other": ["Ágosta", "Augusztina", "Baksa", "Baracs", "Bercel", "Bertold", "Bertolda", "Cirill", "Dioméd", "Gerle", "Jónás", "Leopold", "Lestár", "Taksony"],
+            "main": ["Auguszta"]
+        },
+        "30": {
+            "other": ["Amadé", "Amadea", "Gujdó", "Izidor", "Kerény"],
+            "main": ["Zalán"]
+        },
+        "31": {
+            "other": ["Akács", "Ákos", "Ámos", "Balbina", "Béni", "Benjámin", "Benjamina", "Benő", "Gujdó", "Janka", "Johanna", "Kornélia", "Zsanett"],
+            "main": ["Árpád"]
+        }
+    },
+    "4": {
+        "1": {
+            "other": ["Agád", "Agapion", "Ida", "Melitta", "Pál", "Teodóra", "Urbán"],
+            "main": ["Hugó"]
+        },
+        "2": {
+            "main": ["Áron"],
+            "other": ["Ferenc", "Hubert", "Lipót", "Mária", "Múzsa", "Orbán", "Ottokár", "Teodózia", "Tünde"]
+        },
+        "3": {
+            "main": ["Buda", "Richárd"],
+            "other": ["Emilián", "Hóvirág", "Indira", "Irén", "Keresztély", "Krisztián", "Múzsa", "Szixtusz", "Ulpián"]
+        },
+        "4": {
+            "main": ["Izidor"],
+            "other": ["Kerény"]
+        },
+        "5": {
+            "other": ["Honoráta", "Honóriusz", "Irén", "Julianna", "Kreszcencia", "Teodóra"],
+            "main": ["Vince"]
+        },
+        "6": {
+            "other": ["Atlasz", "Bíbor", "Bíbora", "Celesztin", "Celesztina", "Csát", "Dénes", "Ruben", "Szellőke", "Szixtusz", "Taksony"],
+            "main": ["Bíborka", "Vilmos"]
+        },
+        "7": {
+            "other": ["Armand", "Armanda", "Armandina", "Ármin", "Árpád", "Asszunta", "Azucséna", "József", "Kreszcencia", "Lotár", "Manna", "Mária", "Orsolya", "Ruben", "Urzulina"],
+            "main": ["Herman"]
+        },
+        "8": {
+            "main": ["Dénes"],
+            "other": ["Júlia", "Lídia", "Mahália", "Mária", "Marietta", "Radamesz", "Valter", "Zselyke"]
+        },
+        "9": {
+            "other": ["Ákos", "Csombor", "Döme", "Dömötör", "Dusán", "Hugó", "Kreszcencia", "Lél", "Lelle", "Szecső", "Vince"],
+            "main": ["Erhard"]
+        },
+        "10": {
+            "other": ["Ezékiel", "Fulvia", "Holda", "Marianna", "Mihály", "Polidor", "Radamesz"],
+            "main": ["Zsolt"]
+        },
+        "11": {
+            "other": ["Ariel", "Ariella", "Gemma", "Glória", "Godiva", "Klió", "Laura", "Leon", "Leona"],
+            "main": ["Leó", "Szaniszló"]
+        },
+        "12": {
+            "other": ["Baldvin", "Csaba", "Csanád", "Demény", "Konstantina", "Oxána", "Sába", "Sebő", "Szilárd", "Zenina", "Zénó"],
+            "main": ["Gyula"]
+        },
+        "13": {
+            "other": ["Dalida", "Hermina", "Márton", "Mína", "Minna", "Norma"],
+            "main": ["Ida"]
+        },
+        "14": {
+            "other": ["Bene", "Benedek", "Euszták", "Gusztáv", "Jusztin", "Lavínia", "Lídia", "Maxim", "Radó", "Tiborc", "Tomázia"],
+            "main": ["Tibor"]
+        },
+        "15": {
+            "other": ["Aldó", "Atala", "Cézár", "Neszta", "Nyeste", "Oktávia"],
+            "main": ["Anasztázia", "Tas"]
+        },
+        "16": {
+            "other": ["Abád", "Bánk", "Bános", "Bende", "Benedek", "Bernadett", "Cecílián", "Ené", "Enikő", "Joakim", "József", "Lambert", "Lamberta", "Tercia"],
+            "main": ["Csongor"]
+        },
+        "17": {
+            "other": ["Acicét", "Anasztázia", "Csongor", "Ince", "Izidóra", "Klára", "Megyer", "Nefelejcs", "Neszta", "Nyeste", "Radiszló", "Radó", "Raul", "Rázsony", "Rezső", "Rudolfina", "Zia"],
+            "main": ["Rudolf"]
+        },
+        "18": {
+            "other": ["Aladár", "Andor", "András", "Apolló", "Apollónia", "Benedek", "Edvárd", "Endre", "Hermina", "József", "Lambert", "Uzor", "Verner"],
+            "main": ["Andrea", "Ilma"]
+        },
+        "19": {
+            "other": ["Arszlán", "Emmi", "Ezékiel", "Galatea", "Gerold", "Gilda", "Kocsárd", "Kunó", "Leó", "Leon", "Malvin", "Orália", "Szókratész", "Timon", "Zseraldin", "Zseraldina"],
+            "main": ["Emma"]
+        },
+        "20": {
+            "other": ["Absolon", "Adolár", "Aladár", "Aladin", "Dejte", "Konrád", "Marián", "Odett", "Tihamér", "Töhötöm", "Viktor", "Vincencia", "Vitold", "Vitolda"],
+            "main": ["Tivadar"]
+        },
+        "21": {
+            "other": ["Abelárd", "Adolár", "Anasztáz", "Anzelm", "Anzelma", "Simeon", "Simon", "Szilviusz", "Zekő", "Zelma", "Zelmira", "Zsombor"],
+            "main": ["Konrád"]
+        },
+        "22": {
+            "other": ["Atilla", "Kájusz", "Kál", "Kelemen", "Kelen", "Leonidász", "Noé", "Sándor", "Szemirámisz", "Tábita", "Tácia", "Tatjána", "Vaszilia"],
+            "main": ["Csilla", "Noémi"]
+        },
+        "23": {
+            "other": ["Achilles", "Adalbert", "Adalberta", "Albert", "Egon", "Egyed", "Fortuna", "Fortunát", "Gellért", "Gerda", "György", "Héla", "Ilka", "Ilma", "Norma", "Sándor"],
+            "main": ["Béla"]
+        },
+        "24": {
+            "other": ["Baján", "Becse", "Bojána", "Bonifác", "Bónis", "Csaba", "Debóra", "Egbert", "Egberta", "Egmont", "Egon", "Fidél", "Fidélia", "Gaszton", "Gyöngyvirág", "Györgyi", "Honória", "Honóriusz", "Hümér", "Hunor", "Kardos", "Kászon", "Melióra", "Meliton", "Melitta", "Nedda", "Sába", "Sebő", "Simon"],
+            "main": ["György"]
+        },
+        "25": {
+            "other": ["Ajnácska", "Ányos", "Ervina", "Euniké", "Ivó", "Izmael", "Kalliszta", "Márkus", "Niké"],
+            "main": ["Márk"]
+        },
+        "26": {
+            "other": ["Aida", "Alda", "Ervina", "Klétus", "Marcell", "Mária", "Peregrina", "Tihamér"],
+            "main": ["Ervin"]
+        },
+        "27": {
+            "other": ["Arisztid", "Marianna", "Péter", "Petúnia", "Pintyőke", "Poppea", "Tas", "Tullia", "Zoárd"],
+            "main": ["Zita"]
+        },
+        "28": {
+            "other": ["Aszter", "Bulcsú", "Demény", "Dorisz", "Elemér", "Fedóra", "Ménrót", "Pál", "Páris", "Patony", "Patrícia", "Patrícius", "Patrik", "Péter", "Tárkány", "Teodóra", "Vilmos", "Vitális", "Vitéz", "Vitold", "Vitolda"],
+            "main": ["Valéria"]
+        },
+        "29": {
+            "other": ["Agapion", "Albert", "Albertina", "Antónia", "Csegő", "Hugó", "Kata", "Katalin", "Kitti", "Róbert", "Roberta", "Robin", "Szibilla", "Tertullia", "Tihamér"],
+            "main": ["Péter"]
+        },
+        "30": {
+            "other": ["Ajtony", "Buzád", "Hilda", "Holda", "Ildikó", "Izor", "Karina", "Marianna", "Piusz", "Rozamunda", "Rozmarin", "Szófia", "Tercia", "Tertullia", "Tivadar", "Zsófia"],
+            "main": ["Katalin", "Kitti"]
+        }
+    },
+    "5": {
+        "1": {
+            "other": ["Amarilla", "Amarillisz", "Atanáz", "Bánk", "Benedek", "Benignusz", "Berta", "Dávid", "Fédra", "Florina", "Izóra", "Jákob", "Jakus", "Jeremiás", "József", "Keled", "Maja", "Pellegrin", "Peónia", "Peregrina", "Szvetlana", "Tétény", "Zobor", "Zsaklin", "Zsigmond"],
+            "main": ["Fülöp", "Jakab"]
+        },
+        "2": {
+            "other": ["Atanáz", "Aténé", "Borisz", "Minerva", "Nétus", "Pellegrin", "Peregrina", "Ráhel", "Zoé"],
+            "main": ["Zsigmond"]
+        },
+        "3": {
+            "other": ["Antonella", "Antónia", "Emília", "Fülöp", "Horác", "Jakab", "Juvenál", "Katalin", "Maura", "Sándor", "Seherezádé", "Ténia", "Timon", "Timót", "Viola"],
+            "main": ["Irma", "Tímea"]
+        },
+        "4": {
+            "other": ["Amália", "Antónia", "Brúnó", "Bulcsú", "Elma", "Florina", "Flóris", "Fóris", "Gothárd", "Kocsárd", "László", "Pelágia", "Pelágiusz", "Szilvána", "Szilvánusz"],
+            "main": ["Flórián", "Mónika"]
+        },
+        "5": {
+            "other": ["Angelus", "Árvácska", "Béke", "Erna", "Ernella", "Erzsébet", "Gothárd", "György", "Iduna", "Irén", "Irina", "János", "Judit", "Jutta", "Kocsárd", "Nyék", "Özséb", "Piusz", "Teofil", "Toszka", "Viola"],
+            "main": ["Györgyi"]
+        },
+        "6": {
+            "other": ["Amália", "Detre", "Ditta", "Eliz", "Evetke", "Friderika", "Ida", "Iduna", "János", "Judit", "Koletta", "Ovidiusz", "Szavéta", "Tamara", "Tankréd", "Zsóka"],
+            "main": ["Frida", "Ivett"]
+        },
+        "7": {
+            "other": ["Bendegúz", "Dalma", "Domicián", "Domitilla", "Germán", "Gusztáv", "Napóleon", "Pál", "Szaniszló", "Viktor"],
+            "main": ["Gizella"]
+        },
+        "8": {
+            "other": ["Acsád", "Akács", "Dezideráta", "Gejza", "Géza", "Gizella", "Győző", "Iduna", "Mária", "Ottokár", "Péter", "Stella", "Viktor"],
+            "main": ["Mihály"]
+        },
+        "9": {
+            "other": ["Albert", "Alberta", "Beáta", "Benigna", "Domokos", "Domonkos", "Édua", "Fehérke", "Gergő", "Gerő", "György", "Hófehérke", "Katalin", "Katinka", "Kristóf"],
+            "main": ["Gergely"]
+        },
+        "10": {
+            "other": ["Ajna", "Alda", "Alexia", "Antónia", "Armand", "Armanda", "Blandina", "Cserjén", "Cserne", "Csörsz", "Elek", "Gardénia", "Gordon", "Izor", "Jázmin", "Jób", "Kada", "Koridon", "Míra", "Teofil", "Zöldike"],
+            "main": ["Ármin", "Pálma"]
+        },
+        "11": {
+            "other": ["Adolf", "Beatrix", "Fábiusz", "Fülöp", "Gujdó", "Izidóra", "Jakab", "Jákob", "Jakus", "Kalliszta", "Majlát", "Mályva", "Mirandella", "Mirandola", "Mirandolina", "Uriel"],
+            "main": ["Ferenc"]
+        },
+        "12": {
+            "other": ["Achilles", "Böngér", "Celesztin", "Celesztina", "Dalma", "Domitilla", "Gemma", "Germán", "Gyöngy", "Gyöngyi", "Gyöngyvirág", "Ince", "Ivána", "Johanna", "Násfa", "Nerina", "Pongor", "Viktor", "Zénó", "Zsanett"],
+            "main": ["Pongrác"]
+        },
+        "13": {
+            "other": ["Antos", "Bartos", "Belián", "Dulcinea", "Fatima", "Gellért", "Gerda", "Glória", "Gyöngyi", "Imelda", "Ivána", "Karácson", "Noel", "Ofélia", "Róbert", "Roberta", "Solt"],
+            "main": ["Imola", "Szervác"]
+        },
+        "14": {
+            "other": ["Aglája", "Bekény", "Bónis", "Gemma", "Gyöngyi", "Gyöngyvirág", "Julianna", "Keresztély", "Mátyás", "Násfa", "Ompoly", "Paszkál"],
+            "main": ["Bonifác"]
+        },
+        "15": {
+            "other": ["Cézár", "Dionízia", "Döniz", "Fürtike", "Izidor", "Izóra", "Izsák", "János", "Konstancia", "Médea", "Rupert", "Ruperta", "Upor"],
+            "main": ["Szonja", "Zsófia"]
+        },
+        "16": {
+            "main": ["Botond", "Mózes"],
+            "other": ["Hannibál", "Henriett", "Henrietta", "János", "Nepomuk", "Pellegrin", "Peregrina", "Simon", "Szimóna", "Szimonetta", "Ubul", "Ugod"]
+        },
+        "17": {
+            "other": ["Andor", "Brúnó", "Ditmár", "Fábiusz", "Fabó", "Horác", "Pasztorella", "Rezeda", "Szalók", "Szolón"],
+            "main": ["Paszkál"]
+        },
+        "18": {
+            "other": ["Alexa", "Alícia", "Bódog", "Erika", "Félix", "Hanga", "Julitta", "Kámea", "Kamilla", "Klaudia", "Pálma", "Szandra", "Toszka"],
+            "main": ["Alexandra", "Erik"]
+        },
+        "19": {
+            "other": ["Alvián", "Bernarda", "Bernát", "Buda", "Celeszta", "Celesztin", "Celesztina", "Dukász", "Emiliána", "Ivonn", "Káldor", "Tuzson", "Vulkán"],
+            "main": ["Ivó", "Milán"]
+        },
+        "20": {
+            "other": ["Alfréda", "Balabán", "Bernarda", "Félix", "Ferdinánd", "Galamb", "Gerle", "Hanna", "Tália", "Zsanna"],
+            "main": ["Bernát", "Felícia"]
+        },
+        "21": {
+            "other": ["Adolár", "Andor", "András", "Andrea", "Dévald", "Endre", "Iza", "Konstantina", "Mirella", "Ozmin", "Szilárd", "Teobald", "Teobalda", "Teofil", "Teofila", "Tibád", "Tibold", "Timót", "Tullia", "Velmira"],
+            "main": ["Konstantin"]
+        },
+        "22": {
+            "other": ["Atos", "Boáz", "Bogárka", "Emánuel", "Emil", "Fiametta", "Heléna", "Julianna", "Juliánusz", "Renáta", "Román", "Romána", "Ugron", "Uljána"],
+            "main": ["Júlia", "Rita"]
+        },
+        "23": {
+            "other": ["Ders", "Dézi", "Emil", "Mikes", "Norma", "Renáta", "Vilma", "Vilmos", "Viola"],
+            "main": ["Dezső"]
+        },
+        "24": {
+            "other": ["Csepel", "Erzsébet", "Godvin", "Hanna", "Johanna", "Larina", "Manassé", "Mária", "Marietta", "Marióra", "Miléna", "Simeon", "Szimóna", "Vanessza", "Véta", "Vince", "Zsófia"],
+            "main": ["Eliza", "Eszter"]
+        },
+        "25": {
+            "other": ["Bársonyka", "Bedő", "Csatád", "Egon", "Ervin", "Gergely", "Gergő", "Gerő", "György", "Madléna", "Magda", "Magdaléna", "Magdolna", "Márk", "Márkus", "Urbán", "Urbána", "Zsófia"],
+            "main": ["Orbán"]
+        },
+        "26": {
+            "other": ["Aladár", "Amanda", "Berengár", "Elektra", "Ervin", "Evelina", "Godó", "Gyöngyvér", "Marianna", "Nyék", "Szemere", "Tarján", "Tihamér"],
+            "main": ["Evelin", "Fülöp"]
+        },
+        "27": {
+            "other": ["Ágoston", "Azurea", "Gusztáv", "Gyula", "János", "Muriel", "Paszkál", "Pelbárt", "Rezeda", "Szeverin", "Szörénke"],
+            "main": ["Hella"]
+        },
+        "28": {
+            "other": ["Agmánd", "Ágost", "Ágoston", "Albert", "Alberta", "Bod", "Elmira", "Emánuel", "Germán", "Irén", "Karád", "Lucián", "Perjámos", "Piramusz", "Uránia", "Vilhelmina", "Vilma", "Vilmos"],
+            "main": ["Csanád", "Emil"]
+        },
+        "29": {
+            "other": ["Adelmár", "Aléna", "Almiréna", "Elmár", "Ervin", "Ervina", "Jukundusz", "Kán", "Kund", "Kunó", "Magdaléna", "Manda", "Mária", "Marita", "Maxima", "Melióra", "Teodózia"],
+            "main": ["Magdolna"]
+        },
+        "30": {
+            "other": ["Dezső", "Félix", "Ferdinánd", "Fernanda", "Hanna", "Johanna", "Nándor", "Vászoly", "Vázsony", "Vazul"],
+            "main": ["Janka", "Zsanett"]
+        },
+        "31": {
+            "other": ["Aldó", "Angyalka", "Dalida", "Hermia", "Hermiás", "Hermiusz", "Mária", "Marietta", "Matild", "Metella", "Nilla", "Noé", "Petrónia", "Petróniusz", "Roland", "Sarolt", "Szonóra", "Tilda", "Vaszilia", "Villő"],
+            "main": ["Angéla", "Petronella"]
+        }
+    },
+    "6": {
+        "1": {
+            "other": ["Angéla", "Erazmus", "Fortunát", "Gracián", "Graciána", "Graciella", "Hortenzia", "Júnó", "Jusztin", "Kadosa", "Konrád", "Kund", "Kunó", "Paméla", "Pamfil", "Paulina", "Simeon", "Szemirámisz", "Tibold"],
+            "main": ["Tünde"]
+        },
+        "2": {
+            "other": ["Ábel", "Amélia", "Anett", "Anikó", "Anna", "Annamária", "Arisztid", "Ármin", "Blandina", "Csilla", "Erazmus", "Etele", "Eugén", "Gemella", "Geminián", "Irma", "Jenő", "Kornél", "Marcellina", "Péter", "Razmus", "Rézmán", "Vénusz"],
+            "main": ["Anita", "Kármen"]
+        },
+        "3": {
+            "other": ["Bercel", "Cecília", "Cecílián", "Célia", "Cicelle", "Károly", "Kornél", "Sejla", "Zilia"],
+            "main": ["Klotild"]
+        },
+        "4": {
+            "other": ["Berta", "Fatima", "Fatime", "Felicián", "Ferenc", "Flórián", "Kerény", "Kerubina", "Ulrik"],
+            "main": ["Bulcsú"]
+        },
+        "5": {
+            "other": ["Adolár", "Aglája", "Bán", "Béke", "Bonifác", "Bónis", "Fatima", "Ferdinánd", "Fernanda", "Nándor", "Reginald", "Regő", "Valéria", "Vendel", "Zenina"],
+            "main": ["Fatime"]
+        },
+        "6": {
+            "other": ["Artemisz", "Délia", "Fülöp", "Gilbert", "Gilberta", "Ifigénia", "Izolda", "Klaudetta", "Klaudia", "Kolos", "Norberta", "Norman", "Róbert", "Taksony"],
+            "main": ["Cintia", "Norbert"]
+        },
+        "7": {
+            "other": ["Anett", "Ariadné", "Arianna", "Berengár", "Énok", "Fülöp", "Godiva", "Gotlib", "Grácia", "Jeremiás", "Kocsárd", "Nanett", "Oriána", "Robertina", "Sebes", "Seherezádé"],
+            "main": ["Róbert"]
+        },
+        "8": {
+            "other": ["Ellák", "Helga", "Izabella", "Kalliopé", "Medárda", "Szabella", "Tas", "Vilmos", "Zaránd"],
+            "main": ["Medárd"]
+        },
+        "9": {
+            "other": ["Annabella", "Annamária", "Bódog", "Diána", "Előd", "Enciána", "Farkas", "Felicián", "Feliciána", "Kolombusz", "Lúcia", "Ludovika", "Morgan", "Pelágia", "Pelágiusz", "Perjámos", "Piramusz", "Primusz"],
+            "main": ["Félix"]
+        },
+        "10": {
+            "other": ["Bács", "Bardó", "Diána", "Gyöngyi", "Hargitta", "János", "Margaréta", "Ond"],
+            "main": ["Gréta", "Margit"]
+        },
+        "11": {
+            "other": ["Adelaida", "Amábel", "Azálea", "Balló", "Barabás", "Barna", "Etelka", "Félix", "Mabella", "Paula", "Roxána", "Rozalinda", "Tulipán", "Vaszilia"],
+            "main": ["Barnabás"]
+        },
+        "12": {
+            "other": ["Adelaida", "Antónia", "Azálea", "Cinnia", "Etelka", "Gujdó", "János", "Leó", "Leon", "Lionel", "Orfeusz", "Sebő"],
+            "main": ["Villő"]
+        },
+        "13": {
+            "main": ["Anett", "Antal"],
+            "other": ["Anetta", "Anikó", "Anita", "Anna", "Antigoné", "Anton", "Antónia", "Grácia", "Klétus", "Netta", "Tóbiás"]
+        },
+        "14": {
+            "other": ["Bazil", "Elizeus", "Hedvig", "Herta", "Metód", "Töhötöm", "Valér"],
+            "main": ["Vazul"]
+        },
+        "15": {
+            "other": ["Ábrahám", "Aurél", "Bardó", "Bátony", "Bernát", "Bod", "Gibárt", "Izolda", "Jolánta", "Kreszcencia", "Leona", "Lotár", "Mária", "Marietta", "Modesztusz", "Ruszlána", "Szerénusz", "Vida", "Vidos", "Viola", "Violetta", "Viorika", "Vita", "Vitus", "Zoé", "Zója"],
+            "main": ["Jolán", "Vid"]
+        },
+        "16": {
+            "other": ["Ábrahám", "Ajtony", "Arany", "Aurélián", "Bennó", "Círus", "Ferenc", "Hajna", "Julitta", "Jusztina", "Őzike", "Péter", "Tina"],
+            "main": ["Jusztin"]
+        },
+        "17": {
+            "other": ["Adolf", "Alina", "Alinda", "Bató", "Folkus", "Gergely", "Izmael", "Janka", "Marcián", "Nikander", "Szabolcs", "Teofil", "Teofila", "Teréz", "Terézia", "Tessza", "Töhötöm", "Zoárd"],
+            "main": ["Alida", "Laura"]
+        },
+        "18": {
+            "other": ["Arnó", "Arnót", "Dezdemóna", "Doloróza", "Efraim", "Eliz", "Eufémia", "Ilmár", "Levendula", "Márk", "Markó", "Márkus", "Sudárka"],
+            "main": ["Arnold", "Levente"]
+        },
+        "19": {
+            "other": ["Adeodát", "Bolivár", "Hajnalka", "Imogén", "Ince", "Julianna", "Liána", "Mihaéla", "Mihály", "Zóra"],
+            "main": ["Gyárfás"]
+        },
+        "20": {
+            "other": ["Baltazár", "Benigna", "Boldizsár", "Dea", "Deodát", "Dina", "Feliciána", "Flóra", "Florencia", "Florentina", "Gemma", "Koppány", "Lujza", "Margit", "Özséb", "Rafaella", "Szilamér", "Tessza"],
+            "main": ["Rafael"]
+        },
+        "21": {
+            "other": ["Aladár", "Alojzia", "Alóma", "Artúr", "Demetria", "Dömötör", "Leila", "Lujza", "Olga", "Radomér", "Uriás"],
+            "main": ["Alajos", "Leila"]
+        },
+        "22": {
+            "other": ["Akács", "Albin", "Albina", "Alvina", "Flávia", "Horácia", "János", "Józsiás", "Józsua", "Kriszta", "Krisztina", "Lambert", "Rozvita", "Tamás", "Töhötöm", "Tullia"],
+            "main": ["Paulina"]
+        },
+        "23": {
+            "other": ["Arszlán", "Édua", "Etel", "Szidónia", "Szultána", "Zolna", "Zoltána"],
+            "main": ["Zoltán"]
+        },
+        "24": {
+            "other": ["Bajnok", "Beáta", "Héra", "János", "Józsa", "Levente", "Perenna"],
+            "main": ["Iván"]
+        },
+        "25": {
+            "other": ["Adalbert", "Ajándék", "Bocsárd", "Dorottya", "Maxim", "Maximilla", "Vilma", "Viola"],
+            "main": ["Vilmos"]
+        },
+        "26": {
+            "other": ["Adeodát", "Adony", "Cirill", "Dávid", "Mara", "Marcell", "Morgan", "Örs", "Örsi", "Pelágiusz", "Pénelopé", "Tádé", "Upor"],
+            "main": ["János", "Pál"]
+        },
+        "27": {
+            "other": ["Bársonyka", "Cirill", "Deli", "Emma", "Eufémia", "Harald", "Ladiszla", "Olga", "Sámson", "Ulászló"],
+            "main": ["László"]
+        },
+        "28": {
+            "other": ["Círus", "Erina", "Gyula", "Hektor", "Iréneusz", "Irina", "Iringó", "Jerne", "Laura", "Laurencia", "Leó", "Leon", "Leonidász", "Loréna", "Marcella", "Petúnia", "Szeréna", "Szerénusz", "Szironka", "Tivadar"],
+            "main": ["Irén", "Levente"]
+        },
+        "29": {
+            "other": ["Aladár", "Aliz", "Beáta", "Emma", "Ivett", "Judit", "Kesző", "Keve", "Orbán", "Orbó", "Petra", "Szalóme", "Szulamit", "Urbán"],
+            "main": ["Pál", "Péter"]
+        },
+        "30": {
+            "other": ["Alvián", "Apostol", "Bács", "Bese", "Emília", "Emiliána", "Márkus"],
+            "main": ["Pál"]
+        }
+    },
+    "7": {
+        "1": {
+            "other": ["Anilla", "Anna", "Annabella", "Áron", "Detre", "Dévald", "Előd", "Gál", "Gyula", "Ninetta", "Olivér", "Tábita", "Teobald", "Teobalda", "Tibold", "Tivadar"],
+            "main": ["Annamária", "Tihamér"]
+        },
+        "2": {
+            "other": ["Jenő", "Marcián", "Mária", "Mietta", "Ottokár", "Várkony"],
+            "main": ["Ottó"]
+        },
+        "3": {
+            "other": ["Anatol", "Bernát", "Heliodor", "Héliosz", "Hiador", "Iréneusz", "Jácint", "Jácinta", "Leó", "Leona", "Napsugár", "Oresztész", "Tamás", "Tomaj"],
+            "main": ["Kornél", "Soma"]
+        },
+        "4": {
+            "other": ["Aggeus", "Aliz", "Babett", "Berta", "Betta", "Eliána", "Éliás", "Elza", "Erzsébet", "Fédra", "Ince", "Izabel", "Izabella", "Kerény", "Odó", "Rajmund", "Ramón", "Szabella", "Szvetlana", "Ulla", "Ulrika"],
+            "main": ["Ulrik"]
+        },
+        "5": {
+            "other": ["Antal", "Cipriána", "Cirilla", "Donát", "Félix", "Filoméla", "Filoména", "Kasztor", "Kilián", "Lőrinc", "Metód", "Mihály", "Sarolt", "Viátor", "Vilibald", "Vilmos", "Zoé"],
+            "main": ["Emese", "Sarolta"]
+        },
+        "6": {
+            "other": ["Atalanta", "Dominika", "Ézsaiás", "Gyárfás", "Izaiás", "Járfás", "Józsiás", "Mária", "Marietta", "Marina", "Matild", "Metella", "Miletta", "Morella", "Nedda", "Romola", "Romulusz", "Tamás", "Tankréd", "Tilda", "Tomaj"],
+            "main": ["Csaba"]
+        },
+        "7": {
+            "main": ["Apollónia"],
+            "other": ["Bandó", "Bene", "Bódog", "Cirill", "Cirilla", "Donald", "Donát", "Donáta", "Eszter", "Éva", "Félix", "Kasztor", "Kira", "Luca", "Mária", "Metód", "Odó", "Olinda", "Polla", "Sára", "Vilibald"]
+        },
+        "8": {
+            "other": ["Aladár", "Aliz", "Arnold", "Arnolda", "Arvid", "Csatád", "Csatár", "Csató", "Edgár", "Elza", "Eperke", "Erzsébet", "Estilla", "Eszter", "Eugén", "Gellén", "Iza", "Izabel", "Izabella", "Karsa", "Kartal", "Kilián", "Kiliána", "Liza", "Periklész", "Priszcilla", "Szabella", "Teréz", "Terézia", "Tessza", "Zsóka"],
+            "main": ["Ellák"]
+        },
+        "9": {
+            "other": ["Bereniké", "Detre", "Eleonóra", "Előd", "Fausztina", "Félix", "Gotfrid", "Hajna", "Janka", "Koppány", "Lujza", "Margit", "Marina", "Primusz", "Réta", "Vera", "Verbéna", "Veron", "Veronika", "Zelmira"],
+            "main": ["Lukrécia"]
+        },
+        "10": {
+            "other": ["Alma", "Bekény", "Emánuel", "Engelbert", "Január", "Kanut", "Kenese", "Melina", "Rovéna", "Rubina", "Rufina", "Szilvána", "Szilvánusz", "Ulrik"],
+            "main": ["Amália"]
+        },
+        "11": {
+            "other": ["Amábel", "Benedek", "Csendike", "Eleonóra", "Félix", "Helga", "Holda", "Ilma", "Lilla", "Nelli", "Olga", "Olivér", "Piládész", "Piusz", "Placid", "Placida", "Ráhel", "Szederke", "Szendike", "Ulrik", "Ulrika"],
+            "main": ["Lili", "Nóra"]
+        },
+        "12": {
+            "other": ["Abony", "Eleonóra", "Ernő", "Fedor", "Félix", "Fortunát", "Gerzson", "Henrik", "Izabel", "János", "Jázmin", "Jázon", "Klarissza", "Paulina", "Uzonka", "Zelmira"],
+            "main": ["Dalma", "Izabella"]
+        },
+        "13": {
+            "other": ["Arnó", "Erneszta", "Ernő", "Eugén", "Henrik", "Herkules", "Jákó", "Joel", "Kaplony", "Margit", "Milda", "Petronella", "Petrónia", "Sára", "Sarolta", "Szilas", "Szilvánusz", "Szólát", "Szórád", "Szovát", "Szultána", "Üdvöske"],
+            "main": ["Jenő"]
+        },
+        "14": {
+            "other": ["Bonaventúra", "Emánuel", "Esztella", "Ferenc", "Henrik", "Herkules", "Jusztusz", "Kamil", "Kamill", "Karolina", "Ladomér", "Örsi", "Vladimir", "Zalán"],
+            "main": ["Örs", "Stella"]
+        },
+        "15": {
+            "other": ["Angelina", "Antónia", "Aurél", "Baldvin", "Barót", "Bonaventúra", "Bozsóka", "Csegő", "Egon", "Estilla", "Ferenc", "Henriett", "Jenő", "Kardos", "Ladomér", "Leonóra", "Lóránt", "Manuéla", "Opika", "Örkény", "Pompilla", "Sára", "Stella", "Talamér", "Vladimir"],
+            "main": ["Henrik", "Roland"]
+        },
+        "16": {
+            "other": ["Aténé", "Barót", "Euszták", "Fausztusz", "Irma", "Karméla", "Karmelina", "Kármen", "Kont", "Mária", "Marléne", "Rajnald", "Ria"],
+            "main": ["Valter"]
+        },
+        "17": {
+            "other": ["Ajándék", "Ajna", "Alexia", "Andor", "Andos", "András", "Andrea", "Bánk", "Benedek", "Celina", "Cirill", "Donáta", "Irma", "Leó", "Leon", "Magdaléna", "Magdolna", "Marcellina", "Mária", "Ond", "Róbert", "Ruszlán", "Ruszlána", "Sarolta", "Szabolcs", "Szalárd", "Szegfű", "Szelemér", "Szórád", "Veszta", "Veturia", "Zoárd", "Zobor"],
+            "main": ["Elek", "Endre"]
+        },
+        "18": {
+            "other": ["Arnó", "Arnold", "Arnolda", "Arnót", "Emilián", "Friderika", "Hedvig", "Jusztin", "Kámea", "Kamill", "Kamilla", "Kamilló", "Lantos", "Milán", "Milla", "Mirkó", "Róbert", "Rozina", "Simon", "Szabolcs", "Szemőke", "Zomilla"],
+            "main": ["Frigyes"]
+        },
+        "19": {
+            "other": ["Alfréd", "Alfréda", "Ambrus", "Aranka", "Arany", "Arzén", "Aura", "Aurélia", "Eperke", "Estilla", "Jeromos", "Morella", "Rovéna", "Rubina", "Rufina", "Stella", "Szederke", "Varsány", "Versény", "Vince"],
+            "main": ["Emília"]
+        },
+        "20": {
+            "other": ["Aurél", "Eliána", "Éliás", "Folkus", "Gyöngyi", "Jeromos", "Margaréta", "Margit", "Marina", "Szörénke"],
+            "main": ["Illés"]
+        },
+        "21": {
+            "other": ["Angéla", "Angelina", "Bogát", "Bogáta", "Dalida", "Elina", "Helén", "Ilma", "Ilona", "Julietta", "Léna", "Lőrinc", "Paulina", "Zsüliet"],
+            "main": ["Dániel", "Daniella"]
+        },
+        "22": {
+            "other": ["Lenke", "Levendula", "Lipót", "Magda", "Magdaléna", "Manda", "Mária", "Marica", "Marietta", "Verbéna", "Veréna"],
+            "main": ["Magdolna"]
+        },
+        "23": {
+            "other": ["Anda", "Apollinár", "Apollinária", "Apollónia", "Borisz", "Brigitta", "Dalibor", "Ila", "Laborc", "Libor", "Polina", "Polla", "Rázsony", "Romola"],
+            "main": ["Lenke"]
+        },
+        "24": {
+            "other": ["Bernát", "Borisz", "Csenge", "Dániel", "Jolán", "Kaplony", "Krisztina", "Levendula", "Lujza", "Mirabella"],
+            "main": ["Kincső", "Kinga"]
+        },
+        "25": {
+            "other": ["Dalibor", "Jákob", "Jakobina", "Jakus", "Talabor", "Timur", "Tomor", "Valentin", "Valentina", "Zsaklin"],
+            "main": ["Jakab", "Kristóf"]
+        },
+        "26": {
+            "other": ["Anett", "Aniella", "Anina", "Anita", "Annamária", "Berill", "Grácia", "Joakim", "Kisanna", "Mózes", "Nanetta", "Ninett", "Ninon", "Panna", "Taddeus", "Tádé"],
+            "main": ["Anikó", "Anna"]
+        },
+        "27": {
+            "other": ["Ajtony", "Árvácska", "Aurél", "Bennó", "Bertold", "Bertolda", "Celesztin", "Celesztina", "Gajána", "György", "Györk", "Hugó", "Jarmila", "Jermák", "Julitta", "Kamilla", "Keresztély", "Konstantin", "Liliom", "Lilla", "Malakiás", "Natália", "Natasa", "Pantaleon", "Pentele", "Radiszló", "Radomér", "Radován", "Rezső", "Rudolf", "Rudolfina", "Ugor"],
+            "main": ["Liliána", "Olga"]
+        },
+        "28": {
+            "other": ["Ada", "Adelina", "Adina", "Ákos", "Alina", "Bars", "Beatrix", "Botond", "Győző", "Ince", "Irén", "Leó", "Nauzika", "Salamon", "Szeréna", "Viktor"],
+            "main": ["Szabolcs"]
+        },
+        "29": {
+            "other": ["Adelmár", "Bea", "Beatrix", "Bolda", "Csatár", "Elmó", "Farkas", "Félix", "Fiorella", "Olaf", "Orbán", "Szerafina", "Ulászló", "Urbána", "Virág"],
+            "main": ["Flóra", "Márta"]
+        },
+        "30": {
+            "other": ["Avenár", "Azucséna", "Donatella", "Indira", "Inge", "János", "Julietta", "Jutta", "Maximilla", "Péter", "Polixéna", "Rovéna", "Szemőke", "Szénia"],
+            "main": ["Judit", "Xénia"]
+        },
+        "31": {
+            "other": ["Bató", "Dea", "Fábiusz", "Germán", "Heléna", "Ignác", "Ignácia", "Ilona", "Kázmér"],
+            "main": ["Oszkár"]
+        }
+    },
+    "8": {
+        "1": {
+            "other": ["Alfonz", "Alfonza", "Ete", "Fodor", "Galatea", "Gusztáv", "Kleopátra", "Levente", "Mahália", "Makabeus", "Médea", "Ménrót", "Nadinka", "Nádja", "Orchidea", "Pál", "Pálma", "Pénelopé", "Peónia", "Péter", "Reményke", "Szonja", "Tulipán", "Zsófia"],
+            "main": ["Boglárka"]
+        },
+        "2": {
+            "other": ["Alfonz", "Alfonza", "Alfonzina", "Alfréda", "Elfrida", "Gusztáv", "István", "Lél", "Mária", "Mia", "Özséb", "Regő", "Szerénusz"],
+            "main": ["Lehel"]
+        },
+        "3": {
+            "other": ["Ágost", "Ágoston", "Bennó", "Gusztáv", "Harmatka", "István", "Kamélia", "Kira", "Lídia", "Mirtill", "Nikodémia", "Nikodémusz", "Tea", "Teréz", "Terézia", "Tíria"],
+            "main": ["Hermina"]
+        },
+        "4": {
+            "other": ["Döme", "Domokos", "Emőd", "Jusztin", "Kerubina", "Nedda", "Törtel"],
+            "main": ["Dominika", "Domonkos"]
+        },
+        "5": {
+            "other": ["Ábel", "Abélia", "Afrodité", "Havaska", "Hófehérke", "Izolda", "Kriszta", "Luciusz", "Manon", "Mária", "Nóna", "Osszián", "Oszvald", "Oszvalda", "Őzike", "Páris", "Peregrina", "Szalvátor", "Viátor", "Zebulon"],
+            "main": ["Krisztina"]
+        },
+        "6": {
+            "main": ["Berta", "Bettina"],
+            "other": ["Csobán", "Euridiké", "Géza", "Gusztáv", "Jusztus", "Oktávia", "Oktávián", "Pasztorella", "Szixtusz", "Ulrika"]
+        },
+        "7": {
+            "other": ["Afrodité", "Albert", "Alberta", "Albertina", "Arabella", "Cseperke", "Donát", "Donatella", "Emiliána", "Hilária", "Kajetán", "Kötöny", "Ulrik", "Ulrika", "Uránia", "Vénusz"],
+            "main": ["Ibolya"]
+        },
+        "8": {
+            "other": ["Ágost", "Aladin", "Cirjék", "Domán", "Domokos", "Domonkos", "Eszmeralda", "Gusztáv", "Hartvig", "Herta", "János", "Miron", "Zádor"],
+            "main": ["László"]
+        },
+        "9": {
+            "main": ["Emőd"],
+            "other": ["Hágár", "János", "Mária", "Roland", "Román"]
+        },
+        "10": {
+            "other": ["Amadé", "Amadea", "Bianka", "Blanka", "Csilla", "Csillag", "Filoméla", "Filoména", "Loránd", "Lóránt"],
+            "main": ["Lőrinc"]
+        },
+        "11": {
+            "other": ["Dulcinea", "Filoméla", "Filomén", "Filoména", "Ince", "János", "Klára", "Lilian", "Liliána", "Lujza", "Tarján", "Tibériusz", "Tibor", "Tícia", "Trajánusz", "Viktor", "Zsuzsa"],
+            "main": ["Tiborc", "Zsuzsanna"]
+        },
+        "12": {
+            "other": ["Dina", "Hilária", "Hiláriusz", "Hilda", "Larina", "Letícia", "Orália", "Sugárka"],
+            "main": ["Klára"]
+        },
+        "13": {
+            "other": ["Áldáska", "Barakony", "Benedikta", "Ditmár", "Életke", "Emőd", "Enid", "Gertrúd", "Hannó", "Heléna", "Hippia", "Hippolit", "Hippolita", "Ibolya", "Ince", "János", "Kasszián", "Kászon", "Maxim", "Relinda", "Vitália"],
+            "main": ["Ipoly"]
+        },
+        "14": {
+            "other": ["Atanáz", "Atanázia", "Bere", "Celeszta", "Menta", "Menyhért", "Mikeás", "Montika", "Özséb", "Tanázia"],
+            "main": ["Marcell"]
+        },
+        "15": {
+            "other": ["Alfréd", "Ali", "Marietta", "Masa", "Napóleon", "Tarzícia", "Tarziciusz", "Vladimir"],
+            "main": ["Mária"]
+        },
+        "16": {
+            "main": ["Ábrahám"],
+            "other": ["Áhim", "Amelita", "Cseke", "Csépán", "Dioméd", "Izsák", "Joakim", "Mária", "Marietta", "Rókus", "Szeréna", "Szerénusz", "Szironka", "Teodor", "Ugor"]
+        },
+        "17": {
+            "other": ["Ágost", "Aminta", "Anasztáz", "Arika", "Arikán", "Benedetta", "Emiliána", "Ete", "Hetény", "Jácinta", "Kármán", "Liberátusz", "Réka"],
+            "main": ["Jácint"]
+        },
+        "18": {
+            "other": ["Agenór", "Bodor", "Flóris", "Fodor", "Helén", "Ila", "Ilma", "Joakim", "Lenke", "Rajnald"],
+            "main": ["Ilona"]
+        },
+        "19": {
+            "other": ["Bernát", "Emília", "János", "Lajos", "Marián", "Mariann", "Rókus", "Szebáld", "Tekla"],
+            "main": ["Huba"]
+        },
+        "20": {
+            "other": ["Bernát", "Éliás", "Filibert", "Ozmin", "Periklész", "Samu", "Sámuel", "Samuella", "Stefánia", "Vajk"],
+            "main": ["István"]
+        },
+        "21": {
+            "other": ["Abbás", "Baldvin", "Bernát", "Eleonóra", "Erik", "Erika", "Franciska", "Grácia", "Johanna", "Kemenes", "Maximilián", "Miksa", "Piusz", "Samu", "Samuella"],
+            "main": ["Hajna", "Sámuel"]
+        },
+        "22": {
+            "other": ["Agaton", "Alfonz", "Arnold", "Barakony", "Boglár", "Boglárka", "Eutímia", "János", "Mária", "Marietta", "Merse", "Szigfrid", "Timót", "Timótea", "Zakeus", "Zombor"],
+            "main": ["Menyhért", "Mirjam"]
+        },
+        "23": {
+            "other": ["Aszter", "Farkas", "Fülöp", "Klaudia", "Minerva", "Róza", "Rozália", "Rózsa", "Szidónia", "Teónia", "Vilja", "Zágon", "Zakeus", "Zdenka", "Zdenkó", "Zekő", "Zsadány"],
+            "main": ["Bence"]
+        },
+        "24": {
+            "other": ["Albert", "Alberta", "Albertina", "Aldó", "Aliz", "Bartal", "Bartó", "Detre", "Elza", "Erzsébet", "Jonatán", "Mihaéla", "Nátán", "Szilvánusz", "Taksony"],
+            "main": ["Bertalan"]
+        },
+        "25": {
+            "other": ["Délibáb", "Elemér", "Elmira", "Elvira", "Harlám", "József", "Kadosa", "Kleofás", "Ludovika", "Marinetta", "Tamás", "Tomázia"],
+            "main": ["Lajos", "Patrícia"]
+        },
+        "26": {
+            "other": ["Adolár", "Cseke", "Margit", "Natália", "Natasa", "Rita", "Szellőke", "Tália", "Zamfira"],
+            "main": ["Izsó"]
+        },
+        "27": {
+            "other": ["Cézár", "Gazsó", "Gibárt", "József", "Káldor", "Mónika", "Sámuel", "Vilja"],
+            "main": ["Gáspár"]
+        },
+        "28": {
+            "other": ["Adelina", "Adelinda", "Ágost", "Alfréd", "Bán", "Elmár", "Elmó", "Gusztáv", "Herman", "Hermész", "Hermiás", "Hermina", "Hermiusz", "Jermák", "László", "Mimóza", "Morgan", "Mózes", "Pelágia", "Pelágiusz"],
+            "main": ["Ágoston"]
+        },
+        "29": {
+            "main": ["Beatrix", "Erna"],
+            "other": ["Bolda", "Cézár", "Erneszta", "Ernesztina", "Huba", "Iván", "János", "Kamilla", "Kandida", "Sebő", "Szabina"]
+        },
+        "30": {
+            "other": ["Bodony", "Félix", "Letícia", "Patrik", "Pázmán", "Rebeka", "Róza", "Rozália", "Rozalinda", "Rozita"],
+            "main": ["Rózsa"]
+        },
+        "31": {
+            "other": ["Aida", "Albertina", "Aldán", "Amina", "Arisztid", "Erik", "Hanga", "Izabel", "Metella", "Nimród", "Pamina", "Paulina", "Rajmund", "Rajmunda", "Ramóna", "Tilda"],
+            "main": ["Bella", "Erika"]
+        }
+    },
+    "9": {
+        "1": {
+            "other": ["Ágoston", "Anikó", "Áron", "Artúr", "Bella", "Dagomér", "Gedeon", "Gedő", "Gilda", "Ignác", "Izabel", "Józsa", "Józsua", "Karion", "Kende", "Noémi", "Rodion", "Tamara", "Veréna", "Verita", "Zádor"],
+            "main": ["Egon", "Egyed"]
+        },
+        "2": {
+            "other": ["Absa", "Absolon", "Apollinár", "Apollinária", "Axel", "Bogdán", "Csépán", "Dóra", "Dorottya", "Ella", "Euzébia", "Fedor", "Fédra", "Fodor", "Ingrid", "István", "Kalliszta", "Leonidász", "Margit", "Renáta", "Renátó", "Teó", "Teodor", "Teodóra", "Tóbiás", "Töhötöm"],
+            "main": ["Dorina", "Rebeka"]
+        },
+        "3": {
+            "other": ["Csobán", "Dóra", "Dorina", "Dorottya", "Gergely", "Gergő", "Gerő", "Manszvét", "Piusz", "Szerafina", "Tíria"],
+            "main": ["Hilda"]
+        },
+        "4": {
+            "other": ["Ida", "Irma", "Mór", "Móric", "Mózes", "Muriel", "Regina", "Róza", "Rózsa", "Ruszalka", "Tódor"],
+            "main": ["Rozália"]
+        },
+        "5": {
+            "other": ["Albert", "Alpár", "Bertina", "Herkules", "Jusztin", "Larina", "Odisszeusz", "Ofélia", "Romulusz", "Tárkány", "Ulisszesz", "Viktorina", "Zámor"],
+            "main": ["Lőrinc", "Viktor"]
+        },
+        "6": {
+            "other": ["Abiáta", "Aldán", "Beáta", "Csanád", "Harkány", "Ida", "Magnusz", "Pamina", "Zakária"],
+            "main": ["Zakariás"]
+        },
+        "7": {
+            "other": ["Begónia", "Böngér", "Dusán", "István", "Ivor", "Jávorka", "Kósa", "Lél", "Lelle", "Mabella", "Márkus", "Menyhért", "Rea"],
+            "main": ["Regina"]
+        },
+        "8": {
+            "other": ["Adorján", "Adrián", "Adriána", "Alán", "Csobán", "Engelbert", "Enna", "Ibolya", "Irma", "Kilián", "Koriolán", "Letícia", "Marietta", "Nesztor", "Szerafina", "Szergiusz"],
+            "main": ["Adrienn", "Mária"]
+        },
+        "9": {
+            "main": ["Ádám"],
+            "other": ["Dorottya", "Gara", "Gorgiás", "Omár", "Orgona", "Péter", "Petra", "Polidor", "Szerafina", "Szergiusz", "Tivadar", "Vulfia"]
+        },
+        "10": {
+            "other": ["Ciprián", "Edgár", "Erik", "Erika", "Honória", "Ilmár", "Menodóra", "Miklós", "Mikolt", "Nikola", "Tardos", "Zalán"],
+            "main": ["Hunor", "Nikolett"]
+        },
+        "11": {
+            "other": ["Dioméd", "Emánuel", "Emil", "Emilián", "Félix", "Helga", "Helka", "Igor", "Jácint", "Jácinta", "Károly", "Milán"],
+            "main": ["Teodóra"]
+        },
+        "12": {
+            "other": ["Gujdó", "Ibolya", "Irma", "Marietta", "Marion", "Szelemér", "Tóbiás"],
+            "main": ["Mária"]
+        },
+        "13": {
+            "other": ["Amadil", "Amáta", "János", "Krizosztom", "Lóránt", "Ludovika", "Lujza", "Mór", "Móric", "Virgínia"],
+            "main": ["Kornél"]
+        },
+        "14": {
+            "other": ["Armida", "Armilla", "Ciprián", "Emerita", "Ildikó", "Irma", "Rozanna", "Rozita", "Szerénusz", "Szonóra"],
+            "main": ["Roxána", "Szeréna"]
+        },
+        "15": {
+            "other": ["Ajád", "Alpár", "Bogáta", "Borisz", "Debóra", "Dolóresz", "Doloróza", "Hetény", "Imelda", "Katalin", "Kató", "Lola", "Lolita", "Loránd", "Lóránt", "Mária", "Melissza", "Meliton", "Meluzina", "Nikodém", "Niobé", "Paméla", "Roland", "Tódor", "Töhötöm"],
+            "main": ["Enikő", "Melitta"]
+        },
+        "16": {
+            "other": ["Cecília", "Ciprián", "Cipriána", "Ditta", "Edda", "Eudoxia", "Eufémia", "Eugénia", "Geminián", "Imelda", "Imogén", "Innocencia", "Jozafát", "Kamélia", "Kornél", "Kornélia", "Lúcia", "Ludmilla", "Milica", "Soma"],
+            "main": ["Edit"]
+        },
+        "17": {
+            "other": ["Ariadné", "Belián", "Emánuel", "Ferenc", "Galamb", "Gerle", "Ildikó", "Lambert", "Lamberta", "Ludmilla", "Oriána", "Palóma", "Róbert", "Roberta", "Szókratész", "Upor"],
+            "main": ["Zsófia"]
+        },
+        "18": {
+            "main": ["Diána"],
+            "other": ["József", "Metód", "Richárd", "Rikarda", "Timur", "Titusz", "Zsófia"]
+        },
+        "19": {
+            "other": ["Alfréd", "Dorián", "Emília", "Január", "Jónás", "Konstancia", "Konstantina", "Mária", "Palóma", "Pompónia", "Sebő", "Szabolcs", "Szilárda", "Tivadar", "Tódor", "Vilma"],
+            "main": ["Vilhelmina"]
+        },
+        "20": {
+            "other": ["Euszták", "Fausztina", "Filippa", "Frida", "Hannó", "Zsuzsanna"],
+            "main": ["Friderika"]
+        },
+        "21": {
+            "other": ["Ifigénia", "Ilka", "Jónás", "Maura", "Míra"],
+            "main": ["Máté", "Mirella"]
+        },
+        "22": {
+            "other": ["Armida", "Emerita", "Írisz", "Mária", "Marót", "Maurícia", "Mór", "Ottó", "Tamás", "Zelinda", "Zella", "Zöldike"],
+            "main": ["Móric"]
+        },
+        "23": {
+            "other": ["Helén", "Ila", "Ilona", "Libériusz", "Lina", "Lívia", "Líviusz", "Őszike", "Polixéna", "Telma"],
+            "main": ["Tekla"]
+        },
+        "24": {
+            "main": ["Gellért", "Mercédesz"],
+            "other": ["Gerda", "Giszmunda", "Grizelda", "Grizeldisz", "Mária", "Radomér", "Rupert", "Ruperta"]
+        },
+        "25": {
+            "other": ["Cézár", "Fruzsina", "Gellért", "Karola", "Kleofás", "Kleon", "Klió", "Miklós", "Mikolt", "Mór", "Nikola", "Rikarda", "Sólyom"],
+            "main": ["Eufrozina", "Kende"]
+        },
+        "26": {
+            "other": ["Ciprián", "Cipriána", "Damján", "Kozima", "Kozma", "Özséb"],
+            "main": ["Jusztina"]
+        },
+        "27": {
+            "main": ["Adalbert"],
+            "other": ["Adolf", "Damján", "Damos", "Demeter", "Demjén", "Döme", "Dömötör", "Florencia", "Florentin", "Florentina", "Karola", "Karolina", "Károly", "Kósa", "Kozima", "Kozma", "Krisztián", "Mirabella", "Vince"]
+        },
+        "28": {
+            "other": ["Bernát", "Izméne", "Jusztina", "Pelbárt", "Salamon", "Szelim", "Tárkány"],
+            "main": ["Vencel"]
+        },
+        "29": {
+            "other": ["Alárd", "Gábor", "Gábriel", "Gabriella", "Kapolcs", "Lotár", "Mikes", "Rafael", "Szabin"],
+            "main": ["Mihály"]
+        },
+        "30": {
+            "other": ["Becse", "Hieronima", "Honória", "Honóriusz", "Hunor", "Izméne", "Laborc", "Médea", "Örs", "Viktor", "Zsófia"],
+            "main": ["Jeromos"]
+        }
+    },
+    "10": {
+        "1": {
+            "other": ["Bazsó", "Ludovika", "Remig", "Rémusz", "Román", "Rómeó", "Teréz", "Terézia"],
+            "main": ["Malvin"]
+        },
+        "2": {
+            "other": ["Berengár", "Örs", "Örsi", "Tamás", "Teofil", "Tomaj"],
+            "main": ["Petra"]
+        },
+        "3": {
+            "other": ["Évald", "Gertrúd", "Heliodor", "Hubert", "Ignác", "Ilián", "Jozefa", "Kandid", "Mária", "Ménás", "Rozália", "Teréz", "Terézia"],
+            "main": ["Helga"]
+        },
+        "4": {
+            "other": ["Ámon", "Aranka", "Arany", "Aurélia", "Auróra", "Bodor", "Edvin", "Edvina", "Fanni", "Fodor", "Hajnal", "Hajnalka", "Petrónia", "Petróniusz", "Tirzusz", "Zóra"],
+            "main": ["Ferenc"]
+        },
+        "5": {
+            "other": ["Apollinár", "Atilla", "Attila", "Etele", "Flávia", "Fulvia", "Galina", "Pálma", "Peregrina", "Piládész", "Placid", "Szendike", "Tulipán", "Tullia"],
+            "main": ["Aurél"]
+        },
+        "6": {
+            "other": ["Berény", "Csaba", "Franciska", "Frigyes", "Lénárd", "Mária", "Renátó", "René"],
+            "main": ["Brúnó", "Renáta"]
+        },
+        "7": {
+            "main": ["Amália"],
+            "other": ["Baksa", "Bekény", "Engelbert", "Etelka", "Gerold", "Girót", "Gusztáv", "Mária", "Márk", "Márkus", "Rodion", "Szergiusz", "Vendelina"]
+        },
+        "8": {
+            "other": ["Áldáska", "Benedikta", "Bettina", "Brigitta", "Demeter", "Dömötör", "Etel", "Etelka", "Gitta", "János", "Laurencia", "Mária", "Marietta", "Pelágia", "Pelágiusz", "Semjén", "Simeon", "Simon", "Szergiusz", "Szimonetta"],
+            "main": ["Koppány"]
+        },
+        "9": {
+            "other": ["Ábrahám", "Ábris", "Andor", "András", "Andrea", "Dionízia", "Dömös", "Elemér", "Endre", "Gerjén", "Godvin", "Günter", "Gusztáv", "Ibrány", "János", "Lajos", "Lénárd", "Rusztem", "Sára", "Szibilla", "Szultána", "Velmira"],
+            "main": ["Dénes"]
+        },
+        "10": {
+            "other": ["Avenár", "Bendegúz", "Dániel", "Daniella", "Ferenc", "Gerjén", "Gerő", "Hajna", "Lajos", "Leó", "Leon", "Leona", "Samu", "Sámuel", "Samuella"],
+            "main": ["Gedeon"]
+        },
+        "11": {
+            "other": ["Andor", "Britta", "Brúnó", "Celina", "Csák", "Csanád", "Etel", "Galina", "Germán", "Hont", "Jakab", "Lajos", "Mária", "Pintyőke", "Placida", "Sándor", "Szelina", "Szendike", "Tasziló", "Tódor", "Zenina"],
+            "main": ["Brigitta"]
+        },
+        "12": {
+            "other": ["Edvin", "Edvina", "Maximilián", "Rezső", "Szemere", "Szeráf", "Szerafina", "Tirzusz"],
+            "main": ["Miksa"]
+        },
+        "13": {
+            "main": ["Ede", "Kálmán"],
+            "other": ["Edgár", "Edvárd", "Edvarda", "Fatima", "Fausztusz", "Jakab", "Jákó", "Jákob", "Jakus", "Reginald", "Rémusz", "Romulusz", "Teofil"]
+        },
+        "14": {
+            "other": ["Alán", "Beatrix", "Bocsárd", "Buzád", "Celeszta", "Domos", "Fortunát", "Hasszán", "Hella", "Huba", "Ila", "Ilma", "Ilona", "Krizanta", "Lívia"],
+            "main": ["Helén"]
+        },
+        "15": {
+            "other": ["Aranka", "Aurélia", "Auróra", "Berény", "Brúnó", "Hedvig", "Rella", "Telma", "Terézia", "Vilma"],
+            "main": ["Teréz"]
+        },
+        "16": {
+            "other": ["Ambrus", "Aranka", "Aurélia", "Auróra", "Baldvin", "Bedő", "Bertram", "Gálos", "Gellért", "Gerda", "Hedvig", "Lehel", "Lél", "Lelle", "Margaréta", "Margit"],
+            "main": ["Gál"]
+        },
+        "17": {
+            "other": ["Alajos", "Alojzia", "Gabriella", "Ignác", "Ignácia", "Kont", "Leó", "Leon", "Luciusz", "Mályva", "Margaréta", "Margit", "Margitta", "Radiszló", "Radomér", "Radován", "Rezső", "Rudolf", "Rudolfina", "Salamon", "Szalóme", "Szilamér", "Zelinda", "Zolna"],
+            "main": ["Hedvig"]
+        },
+        "18": {
+            "other": ["Ambrus", "Jusztusz"],
+            "main": ["Lukács"]
+        },
+        "19": {
+            "other": ["Alárd", "Bere", "Berény", "Ferdinánd", "Fernanda", "Frida", "Friderika", "Izsák", "Joel", "Laura", "Luciusz", "Pál", "Péter"],
+            "main": ["Nándor"]
+        },
+        "20": {
+            "other": ["Artemíszia", "Artemon", "Artúr", "Aurélián", "Bendegúz", "Cintia", "Délia", "Fülöp", "Gyoma", "Hont", "Irén", "Irina", "Iringó", "János", "Kleopátra", "Ödön", "Saul", "Vendelina", "Vitális"],
+            "main": ["Vendel"]
+        },
+        "21": {
+            "other": ["Celina", "Hiláriusz", "Ilárion", "Kende", "Klementina", "Kolombina", "Orsika", "Radiszló", "Radomér", "Radován", "Urzula", "Viátor", "Zelinda", "Zsolt"],
+            "main": ["Orsolya"]
+        },
+        "22": {
+            "main": ["Előd"],
+            "other": ["Inge", "Kandida", "Kordélia", "Korinna", "Mária", "Mirabella", "Mór", "Szalóme", "Szulamit", "Várkony", "Vilibald"]
+        },
+        "23": {
+            "main": ["Gyöngyi"],
+            "other": ["Gyöngyvér", "Ignác", "Irén", "Jagelló", "János", "Jozefina", "Kapisztrán", "Katapán", "Koppány", "Natália", "Odett", "Odília", "Stefánia", "Szeverin", "Zaránd", "Zerind"]
+        },
+        "24": {
+            "other": ["Arétász", "Arita", "Armilla", "Gilbert", "Gilberta", "Gilgames", "Harald", "Helén", "Herold", "Ila", "Ilona", "János", "Mária", "Marietta", "Periklész", "Rafael", "Ráfis", "Ráhel"],
+            "main": ["Salamon"]
+        },
+        "25": {
+            "main": ["Bianka", "Blanka"],
+            "other": ["Bonifác", "Bónis", "Cserjén", "Dália", "Dárius", "Döme", "Dömös", "Fodor", "Harlám", "János", "Jusztin", "Kadosa", "Krizanta", "Marcián", "Margit", "Mór", "Móric", "Réta"]
+        },
+        "26": {
+            "other": ["Albin", "Amand", "Amanda", "Ametiszt", "Armand", "Armanda", "Baldvin", "Demeter", "Döme", "Evariszt", "Ödön"],
+            "main": ["Dömötör"]
+        },
+        "27": {
+            "other": ["Antonietta", "Bese", "Ellák", "Polikárp"],
+            "main": ["Szabina"]
+        },
+        "28": {
+            "other": ["Alfréd", "Alfréda", "Anasztázia", "Cirilla", "Szalvia", "Szalviusz", "Szilviusz", "Szimóna", "Taddeus", "Tádé", "Tömör"],
+            "main": ["Simon", "Szimonetta"]
+        },
+        "29": {
+            "other": ["Anilla", "Ermelinda", "Euzébia", "Izsák", "Melinda", "Nándor", "Narcisszusz", "Őzike", "Szalvia", "Szalviusz", "Teofil", "Zénó"],
+            "main": ["Nárcisz"]
+        },
+        "30": {
+            "main": ["Alfonz"],
+            "other": ["Alfonzina", "Anasztázia", "Arzén", "Aszter", "Éneás", "Klaudia", "Kolos", "Norina", "Pompónia", "Rodrigó", "Stefánia", "Zenóbia", "Zinajda"]
+        },
+        "31": {
+            "other": ["Alfonz", "Alfonza", "Cseke", "Kristóf", "Rodrigó", "Vulfia"],
+            "main": ["Farkas"]
+        }
+    },
+    "11": {
+        "1": {
+            "other": ["Benigna", "Benignusz", "Benke", "Harald", "Igor"],
+            "main": ["Marianna"]
+        },
+        "2": {
+            "main": ["Achilles"],
+            "other": ["Bató", "Bogdán", "Rátold", "Tóbiás", "Tódor", "Viktor", "Viktorina", "Vitéz"]
+        },
+        "3": {
+            "other": ["Bálint", "Bertold", "Hubert", "Huberta", "Ida", "Ilka", "Malakiás", "Márton", "Szilvia", "Szilvió", "Szilviusz"],
+            "main": ["Győző"]
+        },
+        "4": {
+            "other": ["Berill", "Blandina", "Életke", "Ellina", "János", "Karola", "Karolina", "Lina", "Lotti", "Modeszta", "Mór", "Mózes", "Nina", "Oguz", "Rómeó", "Sarolta", "Vitális"],
+            "main": ["Károly"]
+        },
+        "5": {
+            "other": ["Avarka", "Bertilla", "Bertolda", "Erzsébet", "Filotea", "Szavéta", "Tétény", "Töhötöm", "Zakária", "Zakariás"],
+            "main": ["Imre"]
+        },
+        "6": {
+            "other": ["Énok", "Krisztina", "Leonarda"],
+            "main": ["Lénárd"]
+        },
+        "7": {
+            "other": ["Adolf", "Amaranta", "Csenger", "Éneás", "Engelbert", "Erneszta", "Ernő", "Florentin", "Karina", "Lázár", "Rados", "Radován", "Radvány", "Raul", "Rolf", "Rudolf"],
+            "main": ["Rezső"]
+        },
+        "8": {
+            "other": ["Adeodát", "Bagamér", "Gotfrid", "Hódos", "Kál", "Karád", "Kasztor", "Kolos", "Mihály"],
+            "main": ["Zsombor"]
+        },
+        "9": {
+            "other": ["Bozsidár", "Bozsóka", "Fedor", "Nátán", "Oresztész", "Teodor", "Tihamér", "Ugron"],
+            "main": ["Tivadar"]
+        },
+        "10": {
+            "other": ["Andor", "András", "Andrea", "Ariel", "Ariella", "Delinke", "Endre", "Florencia", "Florentina", "Jusztusz", "Leó", "Leona", "Mátka", "Meluzina", "Nimfa", "Rusztem", "Tibériusz", "Tibor", "Tünde", "Virgínia"],
+            "main": ["Réka"]
+        },
+        "11": {
+            "other": ["Atád", "Bartos", "Bozsidár", "Martin", "Ménás", "Ménrót", "Nimród", "Tódor"],
+            "main": ["Márton"]
+        },
+        "12": {
+            "other": ["Aba", "Abád", "Abbás", "Abod", "Asztrid", "Bács", "Emánuel", "Emil", "Emilián", "Hamilkár", "Hümér", "Jozafát", "Keresztély", "Krisztián", "Kunó", "Levente", "Lívia", "Líviusz", "Márton", "Martos", "Renáta", "Szilvánusz", "Tihamér"],
+            "main": ["Jónás", "Renátó"]
+        },
+        "13": {
+            "other": ["Arkád", "Bulcsú", "Enna", "Eugén", "Jenő", "Kilény", "Kilián", "Márton", "Megyer", "Miklós", "Perenna", "Szaniszló", "Szolón"],
+            "main": ["Szilvia"]
+        },
+        "14": {
+            "main": ["Aliz"],
+            "other": ["Elza", "Erzsébet", "Huba", "Jozafát", "Jozefina", "Józsa", "Jukundusz", "Jutas", "Klementina", "Szidónia", "Vanda"]
+        },
+        "15": {
+            "main": ["Adalbert", "Lipót"],
+            "other": ["Ajnácska", "Albert", "Alberta", "Albertina", "Ányos", "Artúr", "Bogát", "Csanád", "Dezső", "Gertrúd", "Ladomér", "Leopold", "Leopoldina", "Richárd", "Vladimir"]
+        },
+        "16": {
+            "other": ["Ágnes", "Agnéta", "Alfréd", "Ede", "Edmond", "Gertrúd", "Hilda", "Margit", "Olinda", "Örs", "Otmár", "Pető"],
+            "main": ["Ödön"]
+        },
+        "17": {
+            "other": ["Dénes", "Ede", "Erzsébet", "Gergely", "György", "Hilda", "Hugó", "Ildikó", "Niké", "Szalóme", "Szulamit", "Viktória", "Zágon", "Zakeus", "Zekő"],
+            "main": ["Gergő", "Hortenzia"]
+        },
+        "18": {
+            "other": ["Csendike", "Jolán", "Jónás", "Noé", "Odó", "Ödön", "Ottó", "Pál", "Péter", "Petra", "Román"],
+            "main": ["Jenő"]
+        },
+        "19": {
+            "other": ["Abdiás", "Alícia", "Aliz", "Barlám", "Betti", "Bodor", "Bonifác", "Bónis", "Elza", "Maxim", "Örzse", "Zobor", "Zsóka"],
+            "main": ["Erzsébet"]
+        },
+        "20": {
+            "other": ["Amália", "Bódog", "Bulcsú", "Edmond", "Emília", "Emiliána", "Felicián", "Félix", "Jónás", "Koriolán", "Lizander", "Merse", "Ödön", "Piusz", "Szilveszter", "Zoltán", "Zsolt"],
+            "main": ["Jolán"]
+        },
+        "21": {
+            "other": ["Amália", "Ilián", "Kolumbán", "", "Rufusz"],
+            "main": ["Olivér"]
+        },
+        "22": {
+            "other": ["Appia", "Csilla", "Milemon", "Milos"],
+            "main": ["Cecília"]
+        },
+        "23": {
+            "other": ["Dániel", "Dános", "Géza", "Klemencia", "Klementina", "Kolumbán"],
+            "main": ["Kelemen"]
+        },
+        "24": {
+            "other": ["Emília", "Flóra", "János", "Kurszán", "Szvetlana", "Virág"],
+            "main": ["Emma"]
+        },
+        "25": {
+            "other": ["Alán", "Aliz", "Ányos", "Elza", "Emma", "Erzsébet", "Jarmila", "Katinka", "Kitti", "Liza", "Mózes"],
+            "main": ["Katalin"]
+        },
+        "26": {
+            "other": ["Atanáz", "Berengár", "Ciklámen", "Konrád", "Lénárd", "Leonárd", "Leonarda", "Miklós", "Milán", "Milos", "Péter", "Szilveszter", "Szíriusz", "Viktória"],
+            "main": ["Virág"]
+        },
+        "27": {
+            "other": ["Amina", "Barlám", "Gergely", "Gergő", "Gerő", "Gertrúd", "Jakab", "Jákob", "Jakus", "János", "Lénárd", "Leonárd", "Leonarda", "", "Virgília"],
+            "main": ["Virgil"]
+        },
+        "28": {
+            "other": ["Dezdemóna", "Günter", "Jakab", "Jakus", "Jenő", "Rufusz", "Szókratész", "Terestyén", "Trisztán"],
+            "main": ["Stefánia"]
+        },
+        "29": {
+            "other": ["Filoméla", "Filomén", "Filoména", "Ilma", "István", "Noé", "Rápolt"],
+            "main": ["Taksony"]
+        },
+        "30": {
+            "other": ["Amália", "Andrea", "Aszter", "Dormán", "Endre", "Tarján", "Trajánusz"],
+            "main": ["Andor", "András"]
+        }
+    },
+    "12": {
+        "1": {
+            "other": ["Aliz", "Arnó", "Arnold", "Arnót", "Bianka", "Blanka", "Ede", "Elek", "Eligiusz", "Enid", "Erzsébet", "Marián", "Natália", "Natasa", "Oros", "Oszkár"],
+            "main": ["Elza"]
+        },
+        "2": {
+            "other": ["Aranka", "Aurél", "Aurélia", "Bibiána", "Dénes", "Gyenes", "Nónusz", "Szilvána", "Szilvánusz", "Viviána", "Zoárd"],
+            "main": ["Melinda", "Vivien"]
+        },
+        "3": {
+            "other": ["Atala", "Atália", "Berény", "Luciusz", "Xavér", "Xavéria", "Zoárd"],
+            "main": ["Ferenc", "Olívia"]
+        },
+        "4": {
+            "other": ["Ada", "Adelina", "Adelinda", "Alinda", "Armida", "Babett", "Bettina", "Boriska", "Boróka", "Ciklámen", "Emerita", "Hágár", "Hannó", "Mór", "Móric", "Péter", "Reginald"],
+            "main": ["Barbara", "Borbála"]
+        },
+        "5": {
+            "other": ["Abigél", "Anasztáz", "Bács", "Ciklámen", "Csaba", "Csanád", "Csobád", "Dalma", "Fürtike", "Herkules", "Kerecsen", "Krisztina", "Mór", "Péter", "Reginald", "Sába", "Sebestyén", "Sebő"],
+            "main": ["Vilma"]
+        },
+        "6": {
+            "other": ["Azálea", "Csinszka", "Dionízia", "Gyopárka", "Leontina", "Mikolt", "Nikola"],
+            "main": ["Miklós"]
+        },
+        "7": {
+            "other": ["Agaton", "Amaranta", "Ambos", "Ambró", "Ambrózia", "Amrita", "Ányos", "Kenéz", "Szabin"],
+            "main": ["Ambrus"]
+        },
+        "8": {
+            "other": ["Alfréda", "Buzás", "Emőke", "Immakuláta", "Marietta", "Mátyás"],
+            "main": [""]
+        },
+        "9": {
+            "other": ["Ábel", "Balda", "Delila", "Filotea", "Gardénia", "Georgina", "György", "Györgyi", "Leona", "Natasa", "Péter", "Piládész", "Üdvöske", "Valéria"],
+            "main": ["Natália"]
+        },
+        "10": {
+            "other": ["Eulália", "Gemella", "Lívia", "Loretta", "Miron"],
+            "main": ["Judit"]
+        },
+        "11": {
+            "main": ["Árpád"],
+            "other": ["Artúr", "Damáz", "Dániel", "Detre", "Enciána", "Szabin", "Tonuzóba", "Zita"]
+        },
+        "12": {
+            "other": ["Bulcsú", "Csepel", "Ella", "Franciska", "Johanna", "Karsa", "Kolumbán", "Kolumbusz", "Otília"],
+            "main": ["Gabriella"]
+        },
+        "13": {
+            "other": ["Bertold", "Éda", "Edda", "Életke", "Elza", "Enid", "Kenese", "Lúcia", "Odília", "Oresztész", "Vita", "Vitália"],
+            "main": ["Luca", "Otília"]
+        },
+        "14": {
+            "other": ["Agnella", "Beriszló", "Bertold", "Bertolda", "Ders", "Emerita", "Konrád", "Szilárd", "Zdenkó"],
+            "main": ["Szilárda"]
+        },
+        "15": {
+            "other": ["Detre", "Dezsér", "Dezső", "Ignác", "Irén", ""],
+            "main": ["Valér"]
+        },
+        "16": {
+            "other": ["Adelaida", "Aggeus", "Alba", "Albina", "Alvina", "Azár", "Beáta", "Etel", "Euzébia", "Fehérke", "Hófehérke", "Marcell", "Nauzika", "Otelló", "Ottó", "Özséb", "Tihamér"],
+            "main": ["Aletta", "Etelka"]
+        },
+        "17": {
+            "other": ["Adél", "Begónia", "Belizár"],
+            "main": ["Lázár", "Olimpia"]
+        },
+        "18": {
+            "other": ["Ágosta", "Ders", "Dezső", "Gertrúd", "Gracián", "Graciána", "Graciella", "Harmatka", "Karácsony", "", "Rufusz", "Töhötöm", "Zajzon"],
+            "main": ["Auguszta"]
+        },
+        "19": {
+            "other": ["Anasztáz", "Bonifác", "Dárius", "Nemere", "Orbán", "Oros", "Pelágia", "Tea", "Tétisz", "Urbán", "Urbána"],
+            "main": ["Viola"]
+        },
+        "20": {
+            "other": ["Apor", "Baján", "Domokos", "Eugén", "Ignác", "Kerecsen", "Keresztély", "Krisztián", "Liberátusz", "Timót"],
+            "main": ["Teofil"]
+        },
+        "21": {
+            "other": ["Atanáz", "Bodomér", "Izidor", "Julianna", "Péter", "Petra", "Témisz"],
+            "main": ["Tamás"]
+        },
+        "22": {
+            "other": ["Anikó", "Beáta", "Flavián", "Franciska", "Judit", "Jutta", "Nina", "Teofánia", "Xavéria"],
+            "main": ["Zénó"]
+        },
+        "23": {
+            "other": ["Ancilla", "Boáz", "Dagobert", "Dagomér", "Niké", "Zéta", "Zétény"],
+            "main": ["Viktória"]
+        },
+        "24": {
+            "other": ["Ada", "Adél", "Adelaida", "Adélia", "Alinka", "Azálea", "Délibáb", "Ervin", "Hermina", "Iringó", "Léda", "Mínea", "Noé", "Noémi"],
+            "main": ["Ádám", "Éva"]
+        },
+        "25": {
+            "other": ["Anasztáz", "Anasztázia", "Botond", "Génia", "Kabos", "Karácson", "Nerina", "Neszta", "Nikodémia", "Nikodémusz", "Noel", "Nyeste", "Zseni"],
+            "main": ["Eugénia"]
+        },
+        "26": {
+            "other": ["Dénes", "Előd", "Stefánia", "Zombor"],
+            "main": ["István"]
+        },
+        "27": {
+            "other": ["Domán", "Fabióla", "Lázár", "Teodor", "Teofánia"],
+            "main": ["János"]
+        },
+        "28": {
+            "other": ["Apor", "Apród", "Ármin", "Gáspár", "Gyula", "Ince", "Rufusz", "Teodor", "Teofila", "Tódor"],
+            "main": ["Kamilla"]
+        },
+        "29": {
+            "other": ["Áldáska", "Amázia", "Bekő", "Benedikta", "Bökény", "Dávid", "Dókus", "Gáspár", "Jonatán", "Karsa", "Tomaj"],
+            "main": ["Tamara", "Tamás"]
+        },
+        "30": {
+            "other": ["Alfréda", "Aniziusz", "Dénes", "Ervina", "Hermina", "Honóriusz", "Hunor", "Ignác", "Kardos", "Libériusz", "Lotár", "Margit", "Szabin", "Zalán", "Zoárd"],
+            "main": ["Dávid"]
+        },
+        "31": {
+            "other": ["Ajándék", "Darinka", "Donáta", "Katalin", "Kitti", "Márió", "Máriusz", "Megyer", "Melánia", "Ubul"],
+            "main": ["Szilveszter"]
+        }
+    }
+}

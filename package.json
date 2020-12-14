@@ -1,0 +1,16 @@
+{
+  "name": "nevnapok-json",
+  "version": "1.0.0",
+  "description": "Magyar névnapok json formátumban",
+  "main": "NameDay.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "jsdom": "^16.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
