@@ -9,6 +9,7 @@ Szúrópróbaszerűen ellenőriztem néhány névnap helyességét, azok alapjá
 
 Formátum:
 ```js
+var nevnapok= {
 "1": { // hónap
   "1": { // nap
     "main": [ //fő névnapok
@@ -30,4 +31,6 @@ Formátum:
   }
 },
 ...
+};
+
 ```
